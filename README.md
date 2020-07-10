@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frelance PHP eCommerce Backend Developer!
+I'm a frelance PHP eCommerce Backend Developer!  
 Also I'd like to have fun with "DevOps stuff" :)
 
 ### Main Technologies
@@ -12,10 +12,11 @@ Also I'd like to have fun with "DevOps stuff" :)
 
 ### Extra
 
-- Grav CMS
 - Shopify
 - Pipeline and deploy
+- Grav CMS
 - (Linux & docker)
+- (ex Magento developer)
 
 ### Get in touch
 
