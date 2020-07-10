@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**giuseppemorelli/giuseppemorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frelance PHP eCommerce Backend Developer!
+Also I'd like to have fun with "DevOps stuff" :)
 
-Here are some ideas to get you started:
+### Main Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sylius
+- Shopware
+- Laravel
+- Akeneo
+
+### Extra
+
+- Grav CMS
+- Shopify
+- Pipeline and deploy
+- (Linux & docker)
+
+### Get in touch
+
+- Twitter: https://twitter.com/giuseppemorelli
+- Linkedin: https://www.linkedin.com/in/giuseppemorelli/
+- Personal Website: https://www.giuseppemorelli.net
+- Email: info@giuseppemorelli.net
