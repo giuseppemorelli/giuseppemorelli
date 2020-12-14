@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a frelance PHP eCommerce Backend Developer!  
+I'm a frelance eCommerce Backend Developer!  
 Also I'd like to have fun with "DevOps stuff" :)
 
 ### Main Technologies
@@ -9,6 +9,10 @@ Also I'd like to have fun with "DevOps stuff" :)
 - Shopware
 - Laravel
 - Akeneo
+
+### Main Programming Languages
+- PHP (>10 years)
+- Javascript / Node.js (< 1 year)
 
 ### Extra
 
