@@ -5,10 +5,11 @@ Also I'd like to have fun with "DevOps stuff" :)
 
 ### Main Technologies
 
-- Sylius
-- Shopware
 - Laravel
 - Akeneo
+- Sylius
+- Shopware
+- Shopify
 
 ### Main Programming Languages
 - PHP (>10 years)
@@ -16,7 +17,6 @@ Also I'd like to have fun with "DevOps stuff" :)
 
 ### Extra
 
-- Shopify
 - Pipeline and deploy
 - Grav CMS
 - (Linux & docker)
@@ -27,4 +27,4 @@ Also I'd like to have fun with "DevOps stuff" :)
 - Twitter: https://twitter.com/giuseppemorelli
 - Linkedin: https://www.linkedin.com/in/giuseppemorelli/
 - Personal Website: https://www.giuseppemorelli.net
-- Email: info@giuseppemorelli.net
+- Email: hello@giuseppemorelli.net
