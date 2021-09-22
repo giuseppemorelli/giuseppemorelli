@@ -19,6 +19,7 @@ Also I'd like to have fun with "DevOps stuff" :)
 
 - Pipeline and deploy
 - Grav CMS
+- Strapi
 - (Linux & docker)
 - (ex Magento developer)
 
