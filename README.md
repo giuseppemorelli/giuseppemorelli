@@ -1,4 +1,10 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm Giuseppe
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/giuseppemorelli/"><img src="https://img.shields.io/badge/Linkedin-me?style=for-the-badge&color=0e76a8&logo=linkedin" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/giuseppemorelli"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
 I'm a frelance eCommerce Backend Developer!  
 Also I'd like to have fun with "DevOps stuff" :)
@@ -10,6 +16,7 @@ Also I'd like to have fun with "DevOps stuff" :)
 - Sylius
 - Shopware
 - Shopify
+- Magento
 
 ### Main Programming Languages
 - PHP (>10 years)
@@ -21,11 +28,8 @@ Also I'd like to have fun with "DevOps stuff" :)
 - Grav CMS
 - Strapi
 - (Linux & docker)
-- (ex Magento developer)
 
 ### Get in touch
 
-- Twitter: https://twitter.com/giuseppemorelli
-- Linkedin: https://www.linkedin.com/in/giuseppemorelli/
 - Personal Website: https://www.giuseppemorelli.net
 - Email: hello@giuseppemorelli.net
