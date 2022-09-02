@@ -23,7 +23,7 @@ Also I'd like to have fun with "DevOps stuff" :)
 
 ## Main Programming Languages
 - PHP
-- Javascript / Node.js (newbie)
+- Javascript / Typescript / Node.js (newbie)
 - Bash scripting
 
 ## Extra
