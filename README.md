@@ -14,7 +14,7 @@ Also I'd like to have fun with "DevOps stuff" :)
 
 ## Main Technologies
 
-- Symfony / Laravel
+- Symfony
 - Akeneo
 - Sylius
 - Shopware
