@@ -23,15 +23,15 @@ Also I'd like to have fun with "DevOps stuff" :)
 
 ## Main Programming Languages
 - PHP
-- Javascript / Typescript / Node.js (newbie)
-- Bash scripting
+- Javascript / Typescript / Node.js
+- Bash
 
 ## Extra
 
 - Pipeline and deploy
 - Grav CMS
-- Strapi
 - Jigsaw
+- Directus
 - (Linux & docker)
 
 ## Get in touch
