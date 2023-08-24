@@ -12,7 +12,7 @@ I'm a frelance eCommerce Backend Developer!
 Also I'd like to have fun with "DevOps stuff" :)
 </p>
 
-## Main Technologies
+## Main Software and Technologies
 
 - Symfony
 - Akeneo
@@ -21,9 +21,12 @@ Also I'd like to have fun with "DevOps stuff" :)
 - Shopify
 - Magento
 
+- Node.js
+- React
+
 ## Main Programming Languages
 - PHP
-- Javascript / Typescript / Node.js
+- Javascript / Typescript
 - Bash
 
 ## Extra
