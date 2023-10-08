@@ -12,15 +12,22 @@ I'm a frelance eCommerce Backend Developer!
 Also I'd like to have fun with "DevOps stuff" :)
 </p>
 
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="60" height="60"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/shopware/shopware-original-wordmark.svg" title="Shopware" alt="Shopware" width="60" height="60"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original-wordmark.svg" title="Magento" alt="Magento" width="60" height="60"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/> &nbsp;
+</div>
+
 ## Main Software and Technologies
 
 - Symfony
-- Akeneo
 - Sylius
 - Shopware
 - Shopify
 - Magento
-
+- Akeneo
+  
 - Node.js
 - React
 
