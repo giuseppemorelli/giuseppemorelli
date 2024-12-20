@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-I'm a frelance eCommerce Backend Developer!  
-Also I'd like to have fun with "DevOps stuff" :)
+I'm a freelance eCommerce Backend Developer!  
+Also, I'd like to have fun with "DevOps stuff" :)
 </p>
 
 <div align="center">
