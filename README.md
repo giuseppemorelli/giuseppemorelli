@@ -35,9 +35,10 @@ Also, I'd like to have fun with "DevOps stuff" :)
 ## Extra
 
 - Pipeline and deploy
-- Grav CMS
-- Jigsaw
+- Astro
 - Directus
+- Strapi
+- Jigsaw
 - (Linux & docker)
 
 ## Get in touch
